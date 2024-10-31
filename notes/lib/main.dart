@@ -4,14 +4,6 @@ void main() {
   runApp(const MyApp());
 }
 
-class Pair<A, B> {
-  final A value1;
-  final B value2;
-  Pair(this.value1, this.value2);
-}
-
-final var1 = Pair('foo', 20);
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
