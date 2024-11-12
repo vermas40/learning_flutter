@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777547089744",
+    "project_id": "notes-shivamidolboy1",
+    "storage_bucket": "notes-shivamidolboy1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777547089744:android:2cd558840e8f50cf724e55",
+        "android_client_info": {
+          "package_name": "com.finlitismyf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESTzqvuUHjl3sDF41X5GTokcuUhbA7HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777547089744:android:1b2d38411fd44b06724e55",
+        "android_client_info": {
+          "package_name": "com.finlitismyfriend.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESTzqvuUHjl3sDF41X5GTokcuUhbA7HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
